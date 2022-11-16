@@ -1,3 +1,3 @@
-Files here: user_profiles,
-payment_options,
-commerce_transactions.
+Files here: product_catalog,
+discount_plans,
+testimonials.
